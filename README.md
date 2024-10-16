@@ -2,10 +2,14 @@
 
 <h3 align="left">Hi there! 👋 Welcome to my GitHub profile!</h3>
 
-<strong>About me:</strong>
-<p align="left">
-  Passionate about creating experiences, with a deep love for JavaScript technologies and a strong enthusiasm for software architecture.
-</p>
+---
+
+<div>
+  <strong>About me:</strong>
+  <p align="left">
+    Passionate about creating experiences, with a deep love for JavaScript technologies and a strong enthusiasm for software architecture.
+  </p>
+</div>
 
 <div>
   <div>
