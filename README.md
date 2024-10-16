@@ -30,9 +30,9 @@
   &nbsp;
 </p>
 
-<strong align="left">Contact:</strong>
+<strong align="left">My links:</strong>
 <div align="left">
-  <a href="https://guilhermedunguel.com">My website |</a>
-  <a href="https://www.linkedin.com/in/guilhermedunguel/">Linkedin |</a>
-  <a href="https://www.instagram.com/guilhermedunguel/">Instagram</a>
+  <a href="https://guilhermedunguel.com">My Website |</a>
+  <a href="https://www.linkedin.com/in/guilhermedunguel/">LinkedIn |</a>
+  <a href="https://gist.github.com/guilhermedunguel/be59f2eedd3cc86ab96a66d1426a32bb">VSCode Settings</a>
 </div>
