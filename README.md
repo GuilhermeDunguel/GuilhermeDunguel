@@ -49,6 +49,6 @@
   <div>
     <strong>My VSCode</strong><br>
     <a href="https://gist.github.com/guilhermedunguel/be59f2eedd3cc86ab96a66d1426a32bb">Settings</a> |
-    <a>Extensions (soon)</a>
+    <a href="https://gist.github.com/guilhermedunguel/7867415bf1a09c49f581db9ec4746cd5">Extensions</a>
   </div>
 </div>
