@@ -23,6 +23,8 @@
       &nbsp;
       <img width="30px" src="https://skillicons.dev/icons?i=express" alt="express icon"/>
       &nbsp;
+      <img width="30px" src="https://skillicons.dev/icons?i=prisma" alt="prisma icon"/>
+      &nbsp;
       <img width="30px" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs icon"/>
       &nbsp;
       <img width="30px" src="https://skillicons.dev/icons?i=typescript" alt="typescript icon"/>
